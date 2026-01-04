@@ -1,16 +1,68 @@
-## Hi there 👋
+# 👋 Hi, I'm Mahesh
 
-<!--
-**chmahesh08/chmahesh08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Pro Software Techy | Full-Stack Developer**  
+🌐 Building modern, scalable, and user-focused applications  
+📍 India | ⏰ IST (UTC +05:30)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I am a passionate **Software Techy** who enjoys playing with **Full-Stack Applications** and turning ideas into real-world solutions.  
+I focus on *writing clean*,*efficient*, and maintainable code while continuously exploring new technologies and best practices in software development.
+
+I believe in:
+- Clean architecture🏗️
+- Scalable systems📈
+- Continuous learning📚
+- Problem-solving through code🧠
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend:**  
+HTML🌐 • CSS🎨 • JavaScript🟨 • React⚛️ 
+
+**Backend:**  
+Node.js🟢 • Python🐍 • Java☕ 
+
+**Database:**  
+MySQL🐬 • MongoDB🍃  
+
+**Tools & Platforms:**  
+Git🔧 • GitHub🐙 • VS Code🖊️ 
+
+---
+
+## 📌 What I’m Working On
+
+- Developing full-stack web applications  
+- Improving system performance and code quality  
+- Exploring new frameworks and tools  
+- Contributing to personal and open-source projects  
+
+---
+
+## 🤝 Collaboration
+
+I’m open to:
+- Collaborating on full-stack projects  
+- Learning-focused development teams  
+- Innovative software ideas  
+
+Feel free to explore my repositories and connect!
+
+---
+
+## 📫 Connect With Me
+
+- 💼 GitHub: *You’re already here 😉*
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/maheshcherlapelli)
+- 🌐 Portfolio: *(Coming Soon)*
+
+---
+
+⭐ *If you like my work, consider starring my repositories!*
+
+
