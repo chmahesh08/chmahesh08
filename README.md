@@ -59,7 +59,7 @@ Feel free to explore my repositories and connect!
 
 - 💼 GitHub: *You’re already here 😉*
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/maheshcherlapelli)
-- 🌐 Portfolio: [Visit My Portfolio](https://your-portfolio-url.com)
+- 🌐 Portfolio: [Visit My Portfolio](https://mahesh-portfolio-jet-xi.vercel.app/)
 
 ---
 
